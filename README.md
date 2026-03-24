@@ -1,2 +1,30 @@
-# Walter-Soares
-presentation of my GitHub
+# Hi, There 👋 🦉
+
+I'm Walter, a technology enthusiast passionate about learning and improving my skills in software development and other tech areas.  
+  
+I'm currently in my second semester of Software Engineering at **UCSal**. I’m always looking for courses and opportunities to strengthen my technical skills and improve my problem-solving abilities.  
+ 
+Welcome to my GitHub! Here you can explore my projects and follow my learning journey through my repositories. 
+
+# 🧑‍💻 Tech Stack and Interests
+<p>  
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="40"/>  
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40"/>  
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40"/>  
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40"/>  
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40"/>  
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  width="40" />
+          
+                    
+</p>
+
+
+
+
+# GitHub Stats 📊
+<p  align="center">  
+<img  src="https://github-readme-stats.vercel.app/api?username=WalterASoaresF&show_icons=true"  width=48%/>  
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterASoaresF&layout=compact"  width=48%/>  
+</p>
