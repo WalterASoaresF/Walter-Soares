@@ -1,10 +1,14 @@
-# Hi, There 👋 🦉
-
+<div>
+  <img src="Drawme1.png" width="150" align="right"/>
+  <h1>Hi, There 👋 🦉</h1>
+</div>
 I'm Walter, a technology enthusiast passionate about learning and improving my skills in software development and other tech areas.  
   
 I'm currently in my second semester of Software Engineering at **UCSal**. I’m always looking for courses and opportunities to strengthen my technical skills and improve my problem-solving abilities.  
  
 Welcome to my GitHub! Here you can explore my projects and follow my learning journey through my repositories. 
+
+
 
 # 🧑‍💻 Tech Stack and Interests
 <p>  
