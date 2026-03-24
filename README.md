@@ -29,6 +29,6 @@ Welcome to my GitHub! Here you can explore my projects and follow my learning jo
 
 # GitHub Stats 📊
 <p  align="center">  
-<img  src="https://github-readme-stats.vercel.app/api?username=WalterASoaresF&show_icons=true"  width=48%/>  
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterASoaresF&layout=compact"  width=48%/>  
+<img  src="https://github-readme-stats.vercel.app/api?username=WalterASoaresF&show_icons=true&theme=dark"  width=48%/>  
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterASoaresF&layout=compact&theme=dark"  width=48%/>  
 </p>
